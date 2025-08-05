@@ -6,4 +6,7 @@ I built a self driving/maneuvering robot that
 3) Performed mathematical cross product to adjust angle of movement for navigation
 4) Consistently updated and displayed current coordinates onto a mobile OLED screen
 
+Here's a sketch of our design followed by a picture of the robot...
 
+
+<img width="741" height="672" alt="Screenshot 2025-08-05 190840" src="https://github.com/user-attachments/assets/9823a767-4529-407e-af8f-63025af49f81" />
