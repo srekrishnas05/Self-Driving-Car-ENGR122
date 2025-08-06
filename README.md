@@ -6,6 +6,8 @@ I built a self driving/maneuvering robot that
 3) Performed mathematical cross product to adjust angle of movement for navigation
 4) Consistently updated and displayed current coordinates onto a mobile OLED screen
 
+I've included the Arduino code, however I've omitted certain private network details.
+
 Here's a sketch of our design followed by a picture of the robot...
 
 
