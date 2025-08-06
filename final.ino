@@ -13,13 +13,13 @@ char payload_global[100];
 boolean flag_payload = false;                         
 
 //MQTT Setting variables  
-const char* mqtt_server = "192.168.0.100";
-const char* MQusername = "user";
-const char* MQpassword = "Stevens1870";
-const char* MQtopic = "louis_lidar_new";
-const int mqtt_port = 1883;
-const char* ssid = "TP-Link_6260";
-const char* password = "60801074";
+const char* mqtt_server = "****";
+const char* MQusername = "****";
+const char* MQpassword = "****";
+const char* MQtopic = "****";
+const int mqtt_port = ****;
+const char* ssid = "****";
+const char* password = "****";
 int x, y; 
 
 // OLED Display Setup
@@ -329,3 +329,4 @@ void loop() {
     }
   }
 }
+
